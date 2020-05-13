@@ -52,7 +52,7 @@ check browser [minikube IP Address]:31515
 
 Created using [App Diagram](https://app.diagrams.net/)
 <div align="center">  
-  <img alt="Application Architechture" src="./screenshots/Travis Application Architechture.png"/>
+  <img alt="Application Architechture" src="/screenshots/Travis Application Architechture.png"/>
 </div>
 
 ### Deployment Architecture
