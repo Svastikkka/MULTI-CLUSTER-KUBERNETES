@@ -58,7 +58,7 @@ Created using [App Diagram](https://app.diagrams.net/)
 ### Deployment Architecture
 Created using [App Diagram](https://app.diagrams.net/)
 <div align="center">  
-  <img alt="Deployment Architecture" src="https://github.com/Svastikkka/multi-cluster-kubernetes/blob/master/screenshots/Travis%20Deployment%20Architecture.png"/>
+  <img alt="Deployment Architecture" src="https://github.com/Svastikkka/multi-cluster-kubernetes/blob/master/screenshots/Travis%20Development%20Application%202.png"/>
 </div>
 
 ## Contributing
