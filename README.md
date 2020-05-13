@@ -52,13 +52,13 @@ check browser [minikube IP Address]:31515
 
 Created using [App Diagram](https://app.diagrams.net/)
 <div align="center">  
-  <img alt="Application Architechture" src="/screenshots/Travis Application Architechture.png"/>
+  <img alt="Application Architechture" src="https://github.com/Svastikkka/multi-cluster-kubernetes/blob/master/screenshots/Travis%20Application%20Architecture.png"/>
 </div>
 
 ### Deployment Architecture
 Created using [App Diagram](https://app.diagrams.net/)
 <div align="center">  
-  <img alt="Deployment Architecture" src="screenshots/Travis Deployment Architecture 2.png"/>
+  <img alt="Deployment Architecture" src="https://github.com/Svastikkka/multi-cluster-kubernetes/blob/master/screenshots/Travis%20Deployment%20Architecture.png"/>
 </div>
 
 ## Contributing
