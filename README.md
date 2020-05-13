@@ -6,7 +6,7 @@
 * [Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/) - For running Kubernetes locally inside VM
 * [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) - The Kubernetes command-line tool
 
-## Instruction
+## Instructions
 
 * <b> Install Prerequisites </b>- Most important, install all the requirments mention above 
 * <b> Step 1 Start minikube</b>- 
@@ -21,3 +21,6 @@ minikube start
 ``` shell
 kubectl apply -f multi-cluster-kubernetes--master
 ``` 
+## Application Architecture
+
+## Deployment Architecture
